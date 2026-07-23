@@ -84,6 +84,30 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
+# 📂 Project Structure
+
+```
+Google-Play-Store-App-Insights-Dashboard/
+│
+├── Dashboard/
+│   └── Google_Play_Store_Dashboard.pbix
+│
+├── Dataset/
+│   └── googleplaystore.csv
+│
+├── Images/
+│   ├── Dashboard.png
+│   ├── KPI_Cards.png
+│   └── Charts.png
+│
+├── README.md
+│
+└── LICENSE
+```
+
+---
+
+
 ## 🚀 Outcome
 
 This dashboard provides an executive-level overview of app performance, enabling product managers, developers, and business teams to quickly identify successful app categories, monitor key metrics, and make informed decisions.
