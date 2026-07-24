@@ -1,6 +1,6 @@
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a one-page interactive Power BI dashboard built using the Google Play Store Apps dataset. The objective is to identify the key factors that contribute to an app's success by analyzing user ratings, installs, reviews, and app categories.
 
@@ -8,7 +8,7 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 - Analyze app performance on the Google Play Store.
 - Identify high-performing app categories.
@@ -18,18 +18,18 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
-- ⭐ Average Rating
-- 📲 Total Installs
-- 💬 Total Reviews
-- 📱 Total Apps
-- 📂 Total Categories
-- 📈 Apps Rated 4.0 and Above
+-  Average Rating
+-  Total Installs
+-  Total Reviews
+-  Total Apps
+-  Total Categories
+-  Apps Rated 4.0 and Above
 
 ---
 
-## 📈 Dashboard Visuals
+##  Dashboard Visuals
 
 - Top 10 Categories by Total Installs (Bar Chart)
 - Rating vs Installs (Scatter Plot)
@@ -47,7 +47,7 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 - Removed duplicate records
 - Handled missing values
@@ -58,7 +58,7 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 💼 Business Insights
+##  Business Insights
 
 - Categories with the highest installs indicate strong market demand.
 - Apps with ratings above 4.0 generally attract more users.
@@ -68,7 +68,7 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 
 - Power BI
@@ -78,13 +78,13 @@ The dashboard enables stakeholders to monitor app performance, understand market
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Source:** Google Play Store Apps Dataset (Kaggle)
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Google-Play-Store-App-Insights-Dashboard/
@@ -108,7 +108,7 @@ Google-Play-Store-App-Insights-Dashboard/
 ---
 
 
-## 🚀 Outcome
+##  Outcome
 
 This dashboard provides an executive-level overview of app performance, enabling product managers, developers, and business teams to quickly identify successful app categories, monitor key metrics, and make informed decisions.
 
